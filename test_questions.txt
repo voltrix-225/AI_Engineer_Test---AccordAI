@@ -1,0 +1,28 @@
+1. Direct Fact Retrieval
+
+What is the official leave policy for full-time employees, including the number of paid leave days and eligibility criteria?
+
+2. Paraphrased Semantic Retrieval
+
+How many annual leave days do permanent employees receive, and are there any conditions attached?
+
+3. Multi-Section Reasoning
+
+If an employee resigns during the probation period, what notice period applies and how does it impact final settlement?
+
+4. Partially Answerable
+
+What are the company’s policies regarding remote work and international relocation?
+
+5. Unanswerable
+
+What is the company’s stock price forecast for next year?
+
+6. External Knowledge Trap
+
+Compare our company’s leave policy with Google’s leave policy.
+
+7. Ambiguous Query
+
+What is the approval process?
+
